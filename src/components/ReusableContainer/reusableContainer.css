@@ -1,0 +1,27 @@
+.rc_wrapper {
+  border: 2px solid gray;
+  margin-top: 1rem;
+}
+
+.rc_header{
+  background-color: gray;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+.rc_button {
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: bolder;
+
+  padding:5px;
+
+  display:flex;
+  align-items: center;
+  justify-content: center;
+
+  user-select: none;
+}

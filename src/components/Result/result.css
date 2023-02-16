@@ -1,0 +1,9 @@
+.result_table table{
+  width: 100%;
+}
+
+.result_table th,
+.result_table td{
+  width: 20%;
+
+}
